@@ -18,7 +18,7 @@
   "packs": [
     {
       "name": "actor-templates",
-      "label": "Templates Acteurs",
+      "label": "INS/MV - Templates Acteurs",
       "path": "packs/actor-templates",
       "type": "Actor",
       "ownership": {
@@ -30,7 +30,7 @@
     },
     {
       "name": "item-templates",
-      "label": "Templates Objets",
+      "label": "INS/MV - Templates Objets",
       "path": "packs/item-templates",
       "type": "Item",
       "ownership": {
